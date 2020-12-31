@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://mohamed-ben-belgacem.com/sitemap.xml

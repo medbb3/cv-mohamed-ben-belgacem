@@ -1,0 +1,178 @@
+[
+    {
+        "id": 1,
+        "position": 1,
+        "startAt": "10-01-2012",
+        "endAt": "01-14-2016",
+        "companyName": "IPCMS/CNRS",
+        "website": "",
+        "logo": "../../assets/template/experience/logo/ipcms.png",
+        "internationalizations": [
+            {
+                "language": "fr",
+                "city": "Strasbourg",
+                "country": "France",
+                "role": "Doctorant chercheur",
+                "description": "<h2>Sujet</h2> Interactions et fonctionnalisations des guides d'ondes optiques auto-inscrits dans les photopolymères</b> <br> <h2>Mission</h2><ul> <li>Contrôler des résultats d'expériences</li><li>Etudier et analyser les données et les résultats des recherches </li><li> Réaliser des calculs et des mesures </li><li> Concevoir des modèles théoriques (calcul, simulation, modélisation) </li><li>Déterminer et développer les méthodes de recherche, de recueil et d'analyse de données </li><li> Superviser et contrôler le déroulement et l'avancement des expériences et des observations scientifiques"
+            },
+            {
+                "language": "en",
+                "city": "Strasbourg",
+                "country": "France",
+                "role": "Phd",
+                "description": ""
+            }
+        ],
+        "technologies": [
+            "LaTex", "Polymére", "Photopolymére", "Matlab", "COMSOL", "Microscopie force atomique", "Laser", "Fibre optique"
+        ],
+        "medias": [
+            {
+                "icon": "facebook",
+                "title": "Facebook",
+                "http": ""
+            }
+        ],
+        "backgroundUrl": "../../assets/template/experience/strasbourg.jpeg"
+    },
+    {
+        "id": 2,
+        "position": 2,
+        "startAt": "02-15-2016",
+        "endAt": "08-31-2018",
+        "companyName": "Académie de Strasbourg et Nantes",
+        "website": "",
+        "logo": "../../assets/template/experience/logo/acstras.png",
+        "internationalizations": [
+            {
+                "language": "fr",
+                "city": "Strasbourg et Laval",
+                "country": "France",
+                "role": "Enseignant Mathématiques, Informatiques et sciences physiques",
+                "description": "<h2>Mission</h2>  <ul> <li> Élaborer et exécuté un programme scolaire bien conçu et réfléchi pour des étudiants</li><li>Modifier un programme scolaire et des techniques d’enseignement pour répondre aux besoins de divers élèves.</li><li>Adapter des cours pour des étudiants de niveau avancé, ainsi que pour ceux ayant des difficultés d’apprentissage.</li><li>Servir de mentor encourageant pour tous mes étudiants.</li><li>Chercher à animer des discussions enrichissantes sur le domaine d’étude.</li><li> Intégrer le plus souvent possible la technologie dans la salle de classe et dans les cours.</ul>"
+            },
+            {
+                "language": "en",
+                "city": "Strasbourg and Laval",
+                "country": "France",
+                "role": "Teatcher",
+                "description": ""
+            }
+        ],
+        "technologies": [
+            "Formation", "Pyton", "Laser", "TP", "Technologie", "Informatique", "Math", "Physique"
+        ],
+        "medias": [
+        
+        ],
+        "backgroundUrl": "../../assets/template/experience/rio.jpg"
+    },
+    {
+        "id": 3,
+        "position": 3,
+        "startAt": "12-01-2018",
+        "endAt": "05-28-2019",
+        "companyName": "ATOS",
+        "website": "http://atos.net/",
+        "logo": "../../assets/template/experience/logo/atos.png",
+        "internationalizations": [
+            {
+                "language": "fr",
+                "city": "Paris",
+                "country": "France",
+                "role": "Développeur Full-stack",
+                "description": "<h2>Projet</h2>Développement d’un QCM en ligne  pour les recrutement avec Java Angular <br> <h2>Mission</h2>  <ul> <li> Concevoir des diagrammes de classe sur UML et l’architecture du projet</li> <li> Développer la partie Backend avec utilisation des Framework Spring et Hibernate.</li> <li> Communication avec la base de données MySQL et PostgreSQL.</li> <li> Développer des API Rest.</li> <li> Réaliser la partie Frontend avec Angular/Prime Ng </li></ul>"   
+            },
+            {
+                "language": "en",
+                "city": "Paris",
+                "country": "France",
+                "role": "Full-stack Developer",
+                "description": ""
+            }
+        ],
+        "technologies": [
+            "Java", "Angular", "HTML", "HTML5", "CSS", "CSS3", "Javascript", "Typescript","Google APIs", "SQL", "MySQL"
+        ],
+        "medias": [
+            {
+                "icon": "linkedin",
+                "title": "LinkedIn ATOS",
+                "http": "https://www.linkedin.com/company/atos/mycompany/"
+            }
+        ],
+        "backgroundUrl": "../../assets/template/experience/atos2.jpg"
+    },
+    {
+        "id": 4,
+        "position": 4,
+        "startAt": "05-28-2019",
+        "endAt": "05-28-2020",
+        "companyName": "ICDC",
+        "logo": "../../assets/template/experience/logo/icdc.png",
+        "internationalizations": [
+            {
+                "language": "fr",
+                "city": "Paris",
+                "country": "France",
+                "role": "Ingénieur d'étude CDS",
+                "description": "<h2>Projet</h2>TMA chez ICDC application Saturne( Moyen de payement et tenue de compte) Sycomore (Commande chéque) GFF ( gestien des flux fonctionnelles) <h2>Mission</h2> <ul> <li> Concevoir, développer, tester et valider des nouvelles fonctionnalités. Puis en assurer la maintenance</li> <li> Assurer le maintien en conditions opérationnelles et garantir la qualité de service des applications.</li><li>Suivie des environnements DEV/RECETTE/PROD.</li> <li>Gérer et résoudre les incidents et les demandes de support.</li> <li> Suivre et assister la MOA en phase de recette.</li> <li>Assister le déploiement en production</li> <li>Préparation et rédaction des retours d'expérience sur les incidents résolues.</ul> "
+            },
+            {
+                "language": "en",
+                "city": "Paris",
+                "country": "France",
+                "role": "",
+                "description": ""
+            }
+        ],
+        "technologies": [
+            "Oracle SQL", "Talend", "Shell", "Ordonnanceur Contrôle M", "Java JEE", "WinSCP", "Eclipse", "Toad", "SQL Developer", "NotePad++", "AWS"
+
+        ],
+        "medias": [
+            {
+                "icon": "Linkedin",
+                "title": "LinkedIn ATOS",
+                "http": "https://www.linkedin.com/company/informatique-cdc/"
+            }
+        ],
+        "backgroundUrl": "../../assets/template/experience/paris.jpg"
+    } ,
+    {
+        "id": 5,
+        "position": 5,
+        "startAt": "05-28-2020",
+        "companyName": "ICDC",
+        "logo": "../../assets/template/experience/logo/icdc.png",
+        "internationalizations": [
+            {
+                "language": "fr",
+                "city": "Paris",
+                "country": "France",
+                "role": "Back-Up Chef de projet",
+                "description": "<h2>Projet</h2>TMA chez ICDC  <h2>Mission</h2> <ul> <li> Analyser et définir les besoins du client.</li><li> Définir les besoins en termes de ressources humaines et de compétences techniques.</li><li>Piloter et mesurer l’état d’avancement avec la création des tableaux de bord JIRA.</li><li>Superviser et coordonner le travail de l’équipe.</li><li>Valider les livrables.</ul> "
+            },
+            {
+                "language": "en",
+                "city": "Paris",
+                "country": "France",
+                "role": "",
+                "description": ""
+            }
+        ],
+        "technologies": [
+            "JIRA", "Agile", "Foramtion", "DevOps", "Java JEE","Excel"
+
+        ],
+        "medias": [
+            {
+                "icon": "Linkedin",
+                "title": "LinkedIn ICDC",
+                "http": "https://www.linkedin.com/company/informatique-cdc/"
+            }
+        ],
+        "backgroundUrl": "../../assets/template/experience/paris2.jpg"
+    } 
+    
+]

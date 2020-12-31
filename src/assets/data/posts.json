@@ -1,0 +1,36 @@
+[
+    {
+        "thumbnail": "../../assets/posts/guide.jpeg",
+        "http": "https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-21-2-1541&id=248452",
+        "date": "11-03-2013",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Physics",
+                "description": "Electro-optic phase modulation in light induced self-written waveguides propagated in a 5CB doped photopolymer"
+            },
+            {
+                "language": "fr",
+                "title": "Physique",
+                "description": "Electro-optic phase modulation in light induced self-written waveguides propagated in a 5CB doped photopolymer"
+            }
+        ]
+    },
+    {
+        "thumbnail": "../../assets/posts/guide2.jpeg",
+        "http": "https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-23-16-20841&id=323332",
+        "date": "01-05-2015",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Physics",
+                "description": "Light induced self-written waveguides interactions in photopolymer media"
+            },
+            {
+                "language": "fr",
+                "title": "Physique",
+                "description": "Light induced self-written waveguides interactions in photopolymer media"
+            }
+        ]
+    }
+]

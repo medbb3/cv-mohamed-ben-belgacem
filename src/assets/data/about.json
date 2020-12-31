@@ -1,0 +1,47 @@
+{
+    "internationalizations": [
+        {
+            "language": "en",
+            "description": ""
+        },
+        {
+            "language": "fr",
+            "description": "Physico-chimiste de formation et passionné par la programmation, je me tourne vers les métier en informatique depuis 2018. J’arrive chez ATOS le 21 janvier 2019 sur des fonctions d’Ingénieur d'étude. J’ai toujours adoré faire la cuisine, concocter de bons petits plats, mais depuis quelques temps je me passionne pour la jardinage!"
+        }
+    ],
+    "medias": [        
+        {
+            "icon": "linkedin",
+            "title": "LinkedIn",
+            "http": "https://www.linkedin.com/in/mohamed-ben-belgacem/"
+        },
+        {
+            "icon": "github",
+            "title": "GitHub",
+            "http": "https://github.com/medbb3"
+        },
+        {
+            "icon": "facebook",
+            "title": "Facebook",
+            "http": "https://www.facebook.com/benbelgacem.mohamed.9/"
+        }
+    ],
+    "hobbies": [        
+        {
+            "icon": "biking",
+            "title": "Cycling"
+        },
+        {
+            "icon": "dumbbell",
+            "title": "Gym"
+        },
+        {
+            "icon": "suitcase-rolling",
+            "title": "Travel"
+        },
+        {
+            "icon": "guitar",
+            "title": "Music"
+        }
+    ]
+}

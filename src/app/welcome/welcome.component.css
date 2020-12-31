@@ -1,0 +1,23 @@
+#welcome {
+    flex-direction: column;
+    height: 700px;
+    padding-top: 5em;
+}
+
+.layer_one {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+.layer_one .avatar-container {
+    position: relative;
+}
+
+.layer_one .avatar-container .illustration {
+    height: 620px;
+    z-index: 2;
+    position: relative;
+    padding-top: 2cm;
+}
